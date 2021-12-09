@@ -1,0 +1,119 @@
+{
+    "Accelerator": {
+        "1": "C342BA9A61B48B98DC246D1B33859A20"
+    },
+    "Antenna": {
+        "1": "7AFC33D8ACE329589E32D900035C4B8C"
+    },
+    "CC_Intersection": {
+        "1": "734C4BBBD74B2800D0F5F433ED179237"
+    },
+    "Cabinets": {
+        "1": "40CDB063CA1E4C96F2DC41751CBB3A40"
+    },
+    "DS_Drainage": {
+        "1": "D5C2BE5C3A206A7BEA10B41666E20B47"
+    },
+    "DS_Filters": {
+        "1": "D1F51EE568966DDC73570D6171FEA479"
+    },
+    "FourFingers": {
+        "1": "09F28B96491D2FFBA3EE61B5EDC7E60E"
+    },
+    "Frame": {
+        "1": "1F0986E672891ED040FE7EC88DC65469"
+    },
+    "Grid": {
+        "1": "C2CB7397444548B7551637F66DFDA5C7"
+    },
+    "HI_StovePipes": {
+        "1": "325997587046DD63C37A07A6A2165EC0"
+    },
+    "HI_Underpipes": {
+        "1": "75F594DCE045F658EB609B1F753E7968"
+    },
+    "Joint": {
+        "1": "85C603038C72819897348E632F29B1FF"
+    },
+    "LargeHall": {
+        "1": "672C18C0DB7E7FB10C1264BFFAC522B8"
+    },
+    "Levels": {
+        "1": "F417E7E483C412F526E21B280303F6F2"
+    },
+    "Nest": {
+        "1": "03537942BD15C47748885F9ADB7096F6"
+    },
+    "Pipelands": {
+        "1": "E01EF862F1963FE4949C3A6C12DA2670"
+    },
+    "Platforms": {
+        "1": "56D914F813C63ECEC5F1F4B32E18CA44"
+    },
+    "PressureChamber": {
+        "1": "894E29025377A7ECA1F96880B3CE03F7"
+    },
+    "Pylons": {
+        "1": "8CE160454544918ACCEC470653BFB0F0"
+    },
+    "Refinery": {
+        "1": "EF9A04A11FAE507AEB66E3E0D04D3ED7"
+    },
+    "SH_BigRoom": {
+        "1": "F6A640876A321388D7045DB54208E6A4"
+    },
+    "SH_Planters": {
+        "1": "A3AD014C9FB523C394091EEEC6023A5D"
+    },
+    "SI_Array": {
+        "1": "B3155E64E66436CC0B26DD119C2486F8"
+    },
+    "SU_Lolipops": {
+        "1": "9757C36AD8D8FE90BD9DBC63EB578054"
+    },
+    "SU_StoneHeads": {
+        "1": "F22456FE4A3ACB29BA6BFB91D1BD9DF2"
+    },
+    "Shortcuts": {
+        "1": "0F39DEB3226B7860122FEC76280FE0A2"
+    },
+    "SkyGrid": {
+        "1": "B16966FB918F726015EC665F46CF502E"
+    },
+    "SmallRoom": {
+        "1": "53022E752DD6B695D214D678EFF10458"
+    },
+    "Summit": {
+        "1": "796BF6AD1324F143B99E1D6E8065FD3C"
+    },
+    "Teeth": {
+        "1": "8A051FFFCB2FA41AEA90762E747C193B"
+    },
+    "ThePit": {
+        "1": "5ED16B83544894D3E4C9999D878CD9D3"
+    },
+    "Thrones": {
+        "1": "5C666D0B83FD2083D6E9123EC289A065"
+    },
+    "TwoKings": {
+        "1": "1B320176663E1267DA67C843A3F6E77E"
+    },
+    "Warehouse": {
+        "1": "D7D6C0BCDEAD856A3752EDD34E3F1375"
+    },
+    "WaterReactor": {
+        "1": "197CD0499BCD531527E13A97C1D82F49"
+    },
+    "WaterWorks": {
+        "1": "E32705868E8BFD0B8FA266AE47D12B86"
+    },
+    "Waterfall": {
+        "1": "A961B5DC2855948AA9F547F39B0B7945"
+    },
+    "WormHole": {
+        "1": "666E538CD55121C32305343A123CB817"
+    },
+    "deathPit": {
+        "1": "836359C01F6D592B3C7A372091BC754F"
+    }
+}
