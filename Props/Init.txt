@@ -225,6 +225,9 @@
 [#nm:"WeirdCog1", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(6,6), #repeatL:[1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
 [#nm:"WeirdWheel1", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(5,5), #repeatL:[1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
 
+[#nm:"LFclothColorA", #tp:"variedSoft", #pxlSize:point(650, 300), #vars:6, #random:0, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:0, #tags:["postEffects", "effectColorA"], #notes:[]]
+[#nm:"LFclothColorB", #tp:"variedSoft", #pxlSize:point(650, 300), #vars:6, #random:0, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:0, #tags:["postEffects", "effectColorB"], #notes:[]]
+
 
 -["LB Destruction", color(80, 255, 80)]
 [#nm:"DestructionDR1", #tp:"antimatter", #depth:5, #contourExp:1.7, #tags:["randomRotat", "randomFlipX", "randomFlipY"], #notes:[]]
