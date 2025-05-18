@@ -1,4 +1,4 @@
-Rain World Community Editor; V.0.4.61; Editor effects initialisation file
+Rain World Community Editor; V.0.4.63; Editor effects initialisation file
 -Natural
 Slime
 Melt
@@ -145,9 +145,13 @@ Mosaic Plants
 Lollipop Mold
 Cobwebs
 Fingers
+Sprawlroots
+Fungus Roots
 
 -April Plants
 Grape Roots
 Og Grass
 Hand Growers
 Head Lamp
+Ceiling Lamp
+Spindles
