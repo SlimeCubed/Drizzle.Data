@@ -17,6 +17,6 @@ Tiles as props fixes : TRUE
 Large trash debug log : FALSE
 Rough Rock spreads more : FALSE
 Dark Slime fix : TRUE
-Custom keybinds : TRUE
+Custom keybinds : FALSE
 Sky roots fix : FALSE
 Hide props in effects : FALSE
