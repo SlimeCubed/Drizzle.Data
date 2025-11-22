@@ -1,5 +1,4 @@
-Rain World Community Editor; V.0.4.63; Editor configuration file
-More tile previews : TRUE
+Rain World Community Editor; v5.0.0; Editor configuration fileMore tile previews : FALSE
 Grime on gradients : FALSE
 Grime : TRUE
 Exit button : DROUGHT
@@ -14,9 +13,5 @@ Trash and Small pipes non solid : FALSE
 Gradients with BackgroundScenes fix : TRUE
 Invisible material fix : TRUE
 Tiles as props fixes : TRUE
-Large trash debug log : FALSE
-Rough Rock spreads more : FALSE
-Dark Slime fix : TRUE
-Custom keybinds : FALSE
-Sky roots fix : FALSE
-Hide props in effects : FALSE
+Large trash debug log : FALSERough Rock spreads more : FALSEDark Slime fix : TRUECustom keybinds : TRUESky roots fix : FALSEHide props in effects : FALSERock types in large trash : TRUE
+ : TRUE
