@@ -12,5 +12,9 @@
 [#nm:"EffectColorMatA", #color:color(255, 0, 255), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorA"]], #texture:[#sz:point(20, 20), #repeatL:[1,1], #tags:["effectColorA"]]]
 [#nm:"EffectColorMatB", #color:color(0, 255, 255), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorB"]], #texture:[#sz:point(20, 20), #repeatL:[1,1], #tags:["effectColorB"]]]
 
+[#nm:"RidgeWall", #color:color(180, 200, 235), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(10, 10), #repeatL:[1,1], #tags:[]]]
+[#nm:"RidgeWall2", #color:color(180, 200, 235), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(10, 10), #repeatL:[1,1], #tags:[]]]
+[#nm:"RidgeWall3", #color:color(180, 200, 215), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(10, 10), #repeatL:[1,1], #tags:[]]]
+[#nm:"FungusWall", #color:color(45, 100, 200), #texture:[#sz:point(20, 20), #repeatL:[2,2,6], #tags:["textureOnFloor"]]]
 [#nm:"ShellWall", #color:color(225, 205, 190), #texture:[#sz:point(20, 20), #repeatL:[2,2,6], #tags:["textureOnFloor"]]]
 [#nm:"ShellBrickWall", #color:color(265, 145, 130), #texture:[#sz:point(20, 20), #repeatL:[2,2,6], #tags:["textureOnFloor"]]]
